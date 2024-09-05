@@ -48,7 +48,7 @@ export default function SpotlightPage() {
                       Tailwind CSS: The Magic Style Library
                     </h2>
                     <p className="text-sm text-slate-500">
-                      Tailwind CSS is not just a styling library; it's a paradigm shift in how we approach front-end development...
+                      Tailwind CSS is not just a styling library; it is a paradigm shift in how we approach front-end development...
                     </p>
                     <p className="text-xs text-slate-400">January 10, 2024</p>
                   </div>
